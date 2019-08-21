@@ -415,7 +415,8 @@ span.border.one:after {
 .about-left-grid{
 	width:70%;
 	float:right;
-    margin-right: 10em;
+	margin-right: 10em;
+	margin-bottom: 15px;
 	min-height:433px;
 }
 .about-left-grid h2{
