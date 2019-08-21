@@ -416,7 +416,7 @@ span.border.one:after {
 	width:70%;
 	float:right;
 	margin-right: 10em;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	min-height:433px;
 }
 .about-left-grid h2{
@@ -472,7 +472,7 @@ span.border.one:after {
 	    float: left;
 	padding:0;
 	background:url(../images/Shageldi-about.jpg) no-repeat 0px 0px;
-	min-height:580px;
+	min-height:610px;
 	background-size: cover;
    -o-background-size: cover;
    -webkit-background-size: cover;
