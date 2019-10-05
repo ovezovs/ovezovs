@@ -2013,7 +2013,7 @@ span.border.two:after {
   }
   .skill-cont h2 {
 	color: white;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: sans-serif;
 }
 
   .skills {
@@ -2041,7 +2041,7 @@ span.border.two:after {
 }
 .skill-cont2 h2 {
 	color: white;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: sans-serif;
 }
 
 .skills2 {
