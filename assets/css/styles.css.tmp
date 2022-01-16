@@ -1,0 +1,71 @@
+#promo {
+  padding: 20px;
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  #promo {
+    height: 100vh;
+  }
+}
+
+@media (max-width:991px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+#promo .jumbotron {
+  border-radius: 30px;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.7);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (max-width:991px) {
+  #promo .jumbotron {
+    padding: 20px;
+  }
+}
+
+element.style {
+  background-image: url(../../assets/img/lighthouse_bg.jpg);
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.navbar-toggler {
+  padding: .25rem .75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: blink;
+  opacity: 0.8;
+}
+
+@media (min-width: 361px) {
+  .d-inline-block {
+    display: initial;
+  }
+}
+
